@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.row {
+  display: flex;
+}
+
+.col {
+  width: 250px;
+  padding: 1rem;
+  border: 1px solid #333;
+}
+
+.col img {
+  width: 200px;
+}
