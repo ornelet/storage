@@ -58,7 +58,9 @@ const strikers = [
   {
     name: 'Планка монтажная Firmax для петель серии Clickline, H=2, крестовая с предустановленными евровинтами',
     article: 'FRM0119.H2/2',
-    amount: 74
+    amount: 66,
+    type: 9,
+    img: 'https://www.tbm.ru/risunok1024/Planka_montazhnaya_Firmax_dlya_petel_serii_Clickon_H2_krestovaya_s_predustanovlennimi_evrovintami_Taiming_FRM0119_H22_001.jpg'
   },
   {
     name: 'Планка монтажная для петель Firmax Advanced, H=0, крестовая с регулировкой по высоте, с предустановленным евровинтами',
@@ -80,7 +82,7 @@ const strikers = [
   {
     name: 'Ответная планка Н2 с евровинтом, Clip-on (cam), отделка никель',
     article: 'MP.342.H2.N',
-    amount: 129,
+    amount: 105,
     type: 0,
     img: 'https://makmart.ru/upload/iblock/f80/n49wbu0mlxy0p88rf2e33g4nau0icy9l/002.jpg'
   },
