@@ -2,7 +2,7 @@ const strikers = [
   {
     name: 'HARMONY площадка установочная под евровинт 6.3x14 (0мм)',
     article: '525A16M500C',
-    amount: 14,
+    amount: 0,
     type: 0,
     img: 'https://www.mdm-complect.ru/CONTENT/catalogue/fasady/525A16M500C.jpg'
   },
@@ -82,7 +82,7 @@ const strikers = [
   {
     name: 'Ответная планка Н2 с евровинтом, Clip-on (cam), отделка никель',
     article: 'MP.342.H2.N',
-    amount: 105,
+    amount: 63,
     type: 0,
     img: 'https://makmart.ru/upload/iblock/f80/n49wbu0mlxy0p88rf2e33g4nau0icy9l/002.jpg'
   },
