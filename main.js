@@ -75,14 +75,14 @@ const strikers = [
   {
     name: 'Ответная планка H0 под шуруп/евровинт Clip-on (cam), прямоугольная, отделка никель',
     article: 'MP.406.H0.N',
-    amount: 40,
+    amount: 21,
     type: 3,
     img: 'https://makmart.ru/upload/iblock/164/r6dxd10r0xksayf8ozsjw2qwkfddryg1.jpg'
   },
   {
     name: 'Ответная планка Н2 с евровинтом, Clip-on (cam), отделка никель',
     article: 'MP.342.H2.N',
-    amount: 63,
+    amount: 1,
     type: 0,
     img: 'https://makmart.ru/upload/iblock/f80/n49wbu0mlxy0p88rf2e33g4nau0icy9l/002.jpg'
   },
