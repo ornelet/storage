@@ -9,7 +9,7 @@ const strikers = [
   {
     name: 'HARMONY площадка установочная под евровинт 6.3x14 (2мм)',
     article: '525A16M502C',
-    amount: 7,
+    amount: 2,
     type: 0,
     img: 'https://www.mdm-complect.ru/CONTENT/catalogue/fasady/525A16M500C.jpg'
   },
