@@ -2,7 +2,7 @@ const strikers = [
   {
     name: 'HARMONY площадка установочная под евровинт 6.3x14 (0мм)',
     article: '525A16M500C',
-    amount: 0,
+    amount: 40,
     type: 0,
     img: 'https://www.mdm-complect.ru/CONTENT/catalogue/fasady/525A16M500C.jpg'
   },
@@ -103,7 +103,7 @@ const strikers = [
   {
     name: 'Планка CLIP крестообразная с установл. евровинтами, 0мм',
     article: '173L8100',
-    amount: 30,
+    amount: 300,
     type: 4,
     img: 'https://www.itkt.ru/upload/iblock/b48/b4807a62c79a1680b7a3adde23fe4771.gif'
   },
@@ -148,6 +148,13 @@ const strikers = [
     img: 'https://fierashop.ru/upload/resize_cache/pictures/1000_1000_129093fcf5930a7be73961e4a94933403/5891994.jpg'
   },
   {
+    name: 'Ответная планка CLIP под саморез с эксцентриком',
+    article: '175H5400',
+    amount: 2,
+    type: 4,
+    img: 'https://kdm24.ru/upload/iblock/d93/d93d8eeece600934b6cced7048351d07.png'
+  },
+  {
     name: 'Подкладка клинообразная +5° под угловые петли CLIP top, подъем 3 мм',
     article: '171A5040',
     amount: 16,
@@ -165,7 +172,21 @@ const strikers = [
     amount: 19,
     type: 5,
     img: 'https://ihnlver43yzmlyywutd270y.blob.core.windows.net/azureimages/400Wx400H/MPL_8099_1teil_ansch_TA_shop.jpg'
-  }
+  },
+  {
+    name: 'Монтажная планка System 8099 Sensys, Intermat, L37, D3, евровинты',
+    article: '9071627',
+    amount: 0,
+    type: 5,
+    img: 'https://ihnlver43yzmlyywutd270y.blob.core.windows.net/azureimages/400Wx400H/305056_KMPL_1_Euro_shop.jpg'
+  },
+  {
+    name: 'Ограничитель угла открывания для Sensys 8645i, 110гр/85гр, пластик белый',
+    article: '9072540',
+    amount: 0,
+    type: 5,
+    img: 'https://ihnlver43yzmlyywutd270y.blob.core.windows.net/azureimages/400Wx400H/OEWB_Sensys_110-85_TA_shop.jpg'
+  },
 ];
 
 
