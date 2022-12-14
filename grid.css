@@ -24,8 +24,8 @@ section {
 }
 
 .col {
-  box-sizing: border-box;
   display: flex;
+  box-sizing: border-box;
   width: 300px;
   padding: 1rem;
 }
@@ -69,16 +69,21 @@ h3 {
 
 img {
   width: 100%;
+  border-radius: 1.5rem;
 }
 
 .product {
-  padding: 1.5rem 1.5rem 0;
-  border: 1px solid #e6e6e6;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1.5rem;
+  border: 1px solid #eee;
   border-radius: 2rem;
+  box-shadow: 0 0 5px #cfcfcf;
 
   text-align: center;
 }
 
 .info {
-  padding-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
 }
