@@ -87,3 +87,36 @@ img {
 .info {
   margin-bottom: 1.5rem;
 }
+
+.strikers-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  width: 100vw;
+  height: 100vh;
+
+  background: rgba(100, 100, 100, 0.5);
+
+  display: block;
+}
+
+.strikers-popup {
+  position: absolute;
+  top: 25vh;
+  left: 25vw;
+
+  width: 50vw;
+  height: 50vh;
+
+  background: #333;
+  color: #fff;
+
+  overflow: auto;
+}
+
+.close-button {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}

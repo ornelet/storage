@@ -225,10 +225,14 @@ strikersButtons.forEach(btn => {
         col = document.createElement('div');
         col.className = 'col';
         col.innerHTML = `
-          <img src="${el.img}">
-          <p>${el.name}</p>
-          <p>${el.article}</p>
-          <div class="amount">${el.amount}</div>
+          <div class="product">
+            <img src="${el.img}" class="info">
+            <div class="info">${el.name}</div>
+            <div>
+              <div class="info">${el.article}</div>
+              <div class="amount">${el.amount}</div>
+            </div>
+          </div>
           `;
         row.append(col);
       }
