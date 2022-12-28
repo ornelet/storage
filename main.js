@@ -2,14 +2,14 @@ const strikers = [
   {
     name: 'HARMONY площадка установочная под евровинт 6.3x14 (0мм)',
     article: '525A16M500C',
-    amount: 40,
+    amount: 6,
     type: 0,
     img: 'https://www.mdm-complect.ru/CONTENT/catalogue/fasady/525A16M500C.jpg'
   },
   {
     name: 'HARMONY площадка установочная под евровинт 6.3x14 (2мм)',
     article: '525A16M502C',
-    amount: 2,
+    amount: 15,
     type: 0,
     img: 'https://www.mdm-complect.ru/CONTENT/catalogue/fasady/525A16M500C.jpg'
   },
@@ -58,24 +58,33 @@ const strikers = [
   {
     name: 'Планка монтажная Firmax для петель серии Clickline, H=2, крестовая с предустановленными евровинтами',
     article: 'FRM0119.H2/2',
-    amount: 66,
+    amount: 79,
     type: 9,
     img: 'https://www.tbm.ru/risunok1024/Planka_montazhnaya_Firmax_dlya_petel_serii_Clickon_H2_krestovaya_s_predustanovlennimi_evrovintami_Taiming_FRM0119_H22_001.jpg'
   },
   {
     name: 'Планка монтажная для петель Firmax Advanced, H=0, крестовая с регулировкой по высоте, с предустановленным евровинтами',
     article: 'FRM0139.H2/2',
-    amount: 8
+    amount: 8,
+  },
+  {
+    name: 'Планка монтажная Firmax для петель серии Slide-on, H=0, евровинт',
+    article: 'FRM0143',
+    amount: 329,
+    type: 10,
+    img: 'https://www.tbm.ru/risunok1024/Planka_mont_Firmax_dlya_pet_Slideon_H0_evrovint_DTC_FRM0143_001.jpg'
   },
   {
     name: 'Планка монтажная Firmax для петель серии Slide-on, H=2, шуруп',
     article: 'FRM0141',
-    amount: 21
+    amount: 21,
+    type: 10,
+    img: 'https://www.tbm.ru/risunok1024/Planka_mont_Firmax_dlya_pet_Slideon_H2_shurup_DTC_FRM0141_001.jpg'
   },
   {
     name: 'Ответная планка H0 под шуруп/евровинт Clip-on (cam), прямоугольная, отделка никель',
     article: 'MP.406.H0.N',
-    amount: 21,
+    amount: 40,
     type: 3,
     img: 'https://makmart.ru/upload/iblock/164/r6dxd10r0xksayf8ozsjw2qwkfddryg1.jpg'
   },
@@ -94,9 +103,16 @@ const strikers = [
     img: 'https://makmart.ru/upload/iblock/7e0/rsyzniwmztjhceyxhp8cvy6cih0v3nkl/001.jpg'
   },
   {
+    name: 'Монтажная планка для петли Sensys/Intermat H=1,5, в комплекте с 2 евровинтам',
+    article: '9071626',
+    amount: 3,
+    type: 8,
+    img: 'https://www.tdserver.ru/upload/iblock/86e/114680.jpg'
+  },
+  {
     name: 'Монтажная планка для петли Sensys/Intermat H=3, в комплекте с 2 евровинтам',
     article: '9071627',
-    amount: 35,
+    amount: 10,
     type: 8,
     img: 'https://www.tdserver.ru/upload/iblock/b8e/114681.jpg'
   },
