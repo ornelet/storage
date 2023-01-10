@@ -91,7 +91,7 @@ const strikers = [
   {
     name: 'Ответная планка Н2 с евровинтом, Clip-on (cam), отделка никель',
     article: 'MP.342.H2.N',
-    amount: 330,
+    amount: 416,
     type: 0,
     img: 'https://makmart.ru/upload/iblock/f80/n49wbu0mlxy0p88rf2e33g4nau0icy9l/002.jpg'
   },
